@@ -34,7 +34,7 @@ public class Methods_Intro_Practice {
 	//TASK 1: This method states my best friend's name
 	public static void stateBestFriend()
 	{
-		System.out.println("My best friends are Cassidy");
+		System.out.println("My best friend is Cassidy");
 	}
 	
 	//TASK 1: This method states my favorite food
